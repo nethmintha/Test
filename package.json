@@ -1,0 +1,15 @@
+{
+  "name": "astron-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "A WhatsApp bot named Astron with auto-reply and auto-status read functionalities",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.16.1",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
